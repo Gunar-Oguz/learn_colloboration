@@ -14,6 +14,7 @@ def main():
 
     f(2)
     f(45)
+    f(800)
 
 
 if __name__ == "__main__":
