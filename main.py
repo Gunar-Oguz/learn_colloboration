@@ -13,7 +13,7 @@ def main():
         print(x**5)
 
     f(2)
-    f(5)
+    f(45)
 
 
 if __name__ == "__main__":
