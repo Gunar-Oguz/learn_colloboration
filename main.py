@@ -9,5 +9,11 @@ def main():
     print(x**3)
 
 
+
+
+
+    print("Cheking")
+
+
 if __name__ == "__main__":
     main()
